@@ -9,6 +9,7 @@ Go to `Sketch` > `Include Library` > `Manage Libraries...` > `**DHT sensor libra
 #### NodeMCU v3 (Lolin)
 
 The DHT11 sensor is connected as follows:
+
 | DHT11 | NodeMCU |
 | --- | --- |
 | VCC | 3.3V |
