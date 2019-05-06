@@ -18,7 +18,7 @@ The DHT11 sensor is connected as follows:
 
 Schematics:
 
-![Schematics](https://github.com/khvmaths/Azure-IoT-Central-with-ESP/blob/master/schematics.png "Schematics")
+![Schematics](https://i.imgur.com/YXDC1eY.png "Schematics")
 
 ## Instruction
 1. Download these respiratory as ZIP file and extract.
