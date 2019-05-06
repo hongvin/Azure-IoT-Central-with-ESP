@@ -10,7 +10,7 @@ Go to `Sketch` > `Include Library` > `Manage Libraries...` > `**DHT sensor libra
 
 The DHT11 sensor is connected as follows:
 | DHT11 | NodeMCU |
-|---|---|
+| --- | --- |
 | VCC | 3.3V |
 | DAT | D1 |
 | GND | GND |
