@@ -3,7 +3,7 @@
 ## Prerequisite 
 #### Install DHT Library for ESP board
 
-Go to `Sketch` > `Include Library` > `Manage Libraries...` > `**DHT sensor library for ESPx** by **beegee_tokyo**` > `Install`
+Go to `Sketch` > `Include Library` > `Manage Libraries...` > `DHT sensor library for ESPx by beegee_tokyo` > `Install`
 
 ## Hardware Connection
 #### NodeMCU v3 (Lolin)
