@@ -10,11 +10,15 @@ Go to `Sketch` > `Include Library` > `Manage Libraries...` > `**DHT sensor libra
 
 The DHT11 sensor is connected as follows:
 
-| DHT11 | NodeMCU |
-| --- | --- |
-| VCC | 3.3V |
-| DAT | D1 |
-| GND | GND |
+| DHT11 | NodeMCU | 
+| --- | --- | 
+| VCC | 3.3V | 
+| DAT | D1 | 
+| GND | GND | 
+
+Schematics:
+
+![Schematics](https://github.com/khvmaths/Azure-IoT-Central-with-ESP/blob/master/schematics.png "Schematics")
 
 ## Instruction
 1. Download these respiratory as ZIP file and extract.
